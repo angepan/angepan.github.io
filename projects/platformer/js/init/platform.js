@@ -42,6 +42,7 @@
         platform.create(300, 400);
         platform.create(600, 545);
         platform.create(700, 300);
+        platform.create(45, 200);
         
         
         

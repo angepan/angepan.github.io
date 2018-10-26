@@ -38,6 +38,7 @@
         collectable.create(type.steve, 200, 170, 6, 0.7);
         collectable.create(type.kennedi, 600, 550, 6, 0.7);
         collectable.create(type.grace, 500, 200, 6, 0.7);
+        collectable.create(type.grace, 100, 100, 6, 0.7);
         
         
         
